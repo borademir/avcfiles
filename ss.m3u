@@ -1,22 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-1.png" tvg-group="spor" group-title="spor", beIN SPORTS 1 HD
-https://cdn.nsxmedia.net/hlslive/700.m3u8
+https://cdn.nsxmedia.net/hlslive/400.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-2.png" tvg-group="spor" group-title="spor", beIN SPORTS 2 HD
-https://videocdn.mixer.com/hls/173365525-97ab87a37d9d770ef3f70c0bdcad6c4e_source/index.m3u8
+https://cdn.nsxmedia.net/hlslive/401.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-3.png" tvg-group="spor" group-title="spor", beIN SPORTS 3 HD
-https://cdn.nsxmedia.net/hlslive/702.m3u8
+https://cdn.nsxmedia.net/hlslive/402.m3u8
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-4.png" tvg-group="spor" group-title="spor", beIN SPORTS 4 HD
+https://cdn.nsxmedia.net/hlslive/403.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-max-1-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 1 HD
-https://cdn.nsxmedia.net/hlslive/102.m3u8
+https://cdn.nsxmedia.net/hlslive/404.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-max-2-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 2 HD
-http://stream99.astalavistababy.xyz/selcuksportsfutbol/beinmax2222/playlist.m3u8
+https://cdn.nsxmedia.net/hlslive/405.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-haber-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS HABER HD
 http://stream99.astalavistababy.xyz/selcuksportsfutbol/beinhaber/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/367d2a0a-9a08-4c45-8e3d-a14a7c7d99b0_tivibu-spor-tv.png" tvg-group="spor" group-title="spor", TIVIBU SPOR 1 HD
-https://eu.vimm.tv/hls/diziplusofficial/index.m3u8
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/tivibu11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.izletv2.tk/cdn/images/11698.jpg" tvg-group="spor" group-title="spor", TIVIBU SPOR 2 HD
-https://eu.vimm.tv/hls/selcuksports2/index.m3u8
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/tivibu22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvfrekansi.tk/wp-content/uploads/2018/07/Tivibu-Spor-3-HD.png" tvg-group="spor" group-title="spor", TIVIBU SPOR 3 HD
-https://eu.vimm.tv/hls/selcuksprt/index.m3u8
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/tivibu33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ssport.tv/assets/images/favicon/android-icon-192x192.png" tvg-group="spor" group-title="spor", S SPORT
 https://cdn.nsxmedia.net/hlslive/147.m3u8
 #EXTINF:-1 tvg-logo="https://www.ssport.tv/assets/images/favicon/android-icon-192x192.png" tvg-group="spor" group-title="spor", S SPORT 2
@@ -28,9 +30,9 @@ https://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bolgegundem.com/d/news/145442.jpg" tvg-group="spor" group-title="spor", A SPOR
 https://mn-nl.mncdn.com:443/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/47bfc305-fac4-4b67-9ee2-bbea7e7634e2_fbtv.png" tvg-group="spor" group-title="spor", FB TV
-https://eu.vimm.tv/hls/slcksprts12/index.m3u8
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/fbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/storage/logos/D19NDTKjsKGkmqm6nAojBQRpM5XV0cvLkTyVGzXY.png" tvg-group="spor" group-title="spor", GS TV
-https://static.bandlab.com/mediapackage/c4af3793bf76b33c/us-west-2/dc8ead9d7e3149f6ae13bf28c9b26c19/index_2.m3u8
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/gstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.24saatfutbol.com/wp-content/uploads/2018/06/1528195313_fightbox_logo.png" tvg-group="spor" group-title="spor", FIGHTBOX HD
 http://yayin14.bunusanasoracagim.best/selcuksportsfutbol/fightbox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/08/13/oRqxDy.png" tvg-group="spor" group-title="spor", NBA TV
