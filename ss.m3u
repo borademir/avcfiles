@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-1.png" tvg-group="spor" group-title="spor", beIN SPORTS 1 HD
-https://cdn.nsxmedia.net/hlslive/400.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-2.png" tvg-group="spor" group-title="spor", beIN SPORTS 2 HD
-https://cdn.nsxmedia.net/hlslive/401.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-3.png" tvg-group="spor" group-title="spor", beIN SPORTS 3 HD
 https://cdn.nsxmedia.net/hlslive/402.m3u8
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-3.png" tvg-group="spor" group-title="spor", beIN SPORTS 3 HD
+https://cdn.nsxmedia.net/hlslive/401.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-4.png" tvg-group="spor" group-title="spor", beIN SPORTS 4 HD
-https://cdn.nsxmedia.net/hlslive/403.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-max-1-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 1 HD
-https://cdn.nsxmedia.net/hlslive/404.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-max-2-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 2 HD
 https://cdn.nsxmedia.net/hlslive/405.m3u8
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-max-1-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 1 HD
+https://cdn.nsxmedia.net/hlslive/407.m3u8
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-max-2-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 2 HD
+https://cdn.nsxmedia.net/hlslive/406.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-haber-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS HABER HD
 http://stream99.astalavistababy.xyz/selcuksportsfutbol/beinhaber/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/367d2a0a-9a08-4c45-8e3d-a14a7c7d99b0_tivibu-spor-tv.png" tvg-group="spor" group-title="spor", TIVIBU SPOR 1 HD
@@ -58,7 +56,7 @@ http://stream99.astalavistababy.xyz/selcuksportscizgifilm/nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" tvg-group="cizgifilm" group-title="cizgifilm", Disney Junior
 http://stream99.astalavistababy.xyz/selcuksportscizgifilm/disneyjunior/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/Da-vinci-learning-21.png" tvg-group="cizgifilm" group-title="cizgifilm", Da Vinci Learning
-http://stream99.astalavistababy.xyz/selcuksportscizgifilm/davinci/playlist.m3u8
+http://stream99.astalavistababy.xyz/selcuksportssinema/imdb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png" tvg-group="cizgifilm" group-title="cizgifilm", Cartoon Network
 http://stream99.astalavistababy.xyz/selcuksportscizgifilm/cnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_tDRLy6TEo1wewjV0b3rfP80vgzu7y2_J9jA=s900-c-k-c0xffffffff-no-rj-mo" tvg-group="cizgifilm" group-title="cizgifilm", Baby Tv
@@ -112,7 +110,7 @@ http://yayin34.bunusanasoracagim.best:8855/obs2/goruntu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://magazinmahallesi.com/img/w395-h222-c395x222-q100/dosya/haber/ucankus-tv-digiturkte.jpg" tvg-group="ulusal" group-title="ulusal", UCANKUS TV
 https://mn-nl.mncdn.com:443/blutv_ucankus/ucankus_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/national-geographic-hd.png" tvg-group="belgesel" group-title="belgesel", National Geographic HD
-https://selcuksportshd.ppsiktibeniartik.xyz/selcuksportsbelgesel/nationalgeographic/playlist.m3u8
+http://stream99.astalavistababy.xyz/selcuksportsbelgesel/nationalgeographic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/nat-geo-wild-hd.png" tvg-group="belgesel" group-title="belgesel", Nat Geo Wild HD
 http://stream99.astalavistababy.xyz/selcuksportsbelgesel/natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/nat-geo-people-hd.png" tvg-group="belgesel" group-title="belgesel", Nat Geo People HD
@@ -191,8 +189,6 @@ http://stream99.astalavistababy.xyz/selcuksportssinema/msclassic/playlist.m3u8
 http://stream99.astalavistababy.xyz/selcuksportssinema/msfest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1875933911/fx_hd.jpg" tvg-group="sinema" group-title="sinema", FX HD
 https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png" tvg-group="sinema" group-title="sinema", IMDB 100
-http://stream99.astalavistababy.xyz/selcuksportssinema/imdb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ledr.com/colours/white.jpg" tvg-group="sinema" group-title="sinema", Animasyon
 http://stream99.astalavistababy.xyz/selcuksportssinema/animasyon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ledr.com/colours/white.jpg" tvg-group="sinema" group-title="sinema", Korku
