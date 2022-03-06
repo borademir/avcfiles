@@ -1,41 +1,60 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-hd-4.png" tvg-group="spor" group-title="spor", beIN SPORTS 4 HD
-https://x.slcksprtstream.com/kaynakstreamradarco/27/strmrdr.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-max-1-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 1 HD
-https://x.slcksprtstream.com/kaynakstreamradarco/28/strmrdr.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-max-2-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 2 HD
-https://x.slcksprtstream.com/kaynakstreamradarco/29/strmrdr.m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturkburada.com/kanal/bein-sports-haber-hd.png" tvg-group="spor" group-title="spor", beIN SPORTS HABER HD
-https://x.slcksprtstream.com/kaynakstreamradarco/11/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/d3/85/3dd385dd4f6976fbab6e58d674287460.png" tvg-group="spor" group-title="spor", beIN SPORTS 1 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/selcukbein1app/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-2-logo.png" tvg-group="spor" group-title="spor", beIN SPORTS 2 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/25/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b9/14/b6/b914b6e9bc087b3470e9e11375ba676f.png" tvg-group="spor" group-title="spor", beIN SPORTS 3 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/26/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="spor" group-title="spor", beIN SPORTS 4 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/27/strmrdr.m3u8
+#EXTINF:-1 tvg-logo=".png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 1 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/28/strmrdr.m3u8
+#EXTINF:-1 tvg-logo=".png" tvg-group="spor" group-title="spor", beIN SPORTS MAX 2 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/29/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="" tvg-group="spor" group-title="spor", beIN SPORTS HABER HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/11/strmrdr.m3u8
 #EXTINF:-1 tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/367d2a0a-9a08-4c45-8e3d-a14a7c7d99b0_tivibu-spor-tv.png" tvg-group="spor" group-title="spor", TIVIBU SPOR 1 HD
-https://x.slcksprtstream.com/kaynakstreamradarco/61/strmrdr.m3u8
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/61/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://www.izletv2.tk/cdn/images/11698.jpg" tvg-group="spor" group-title="spor", TIVIBU SPOR 2 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/62/strmrdr.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvfrekansi.tk/wp-content/uploads/2018/07/Tivibu-Spor-3-HD.png" tvg-group="spor" group-title="spor", TIVIBU SPOR 3 HD
-https://x.slcksprtstream.com/kaynakstreamradarco/63/strmrdr.m3u8
-#EXTINF:-1 tvg-logo="https://www.ssport.tv/assets/images/favicon/android-icon-192x192.png" tvg-group="spor" group-title="spor", S SPORT 2
-https://x.slcksprtstream.com/kaynakstreamradarco/59/strmrdr.m3u8
-#EXTINF:-1 tvg-logo="https://m.34volt.com/images/foto-arsiv/bundesliga-sezonu-s-sport-plus-ta-aciyor-1333476.jpg" tvg-group="spor" group-title="spor", FORMULA 1
-https://cdn.modyomedia.xyz/608/index.m3u8
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/63/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://www.ssport.tv/assets/images/favicon/android-icon-192x192.png" tvg-group="spor" group-title="spor", S SPORT
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/58/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://m.34volt.com/images/foto-arsiv/bundesliga-sezonu-s-sport-plus-ta-aciyor-1333476.jpg" tvg-group="spor" group-title="spor", S SPORT +
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/48/strmrdr.m3u8
 #EXTINF:-1 tvg-logo="https://www.supersatnet.com/wp-content/uploads/2018/09/sporsmart_atyarisi-770x433.png" tvg-group="spor" group-title="spor", SMARTSPOR
-https://x.slcksprtstream.com/kaynakstreamradarco/60/strmrdr.m3u8
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/60/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" tvg-group="spor" group-title="spor", EXXEN SPOR 2
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/exxensport2/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" tvg-group="spor" group-title="spor", EXXEN SPOR 3
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/exxensport3/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" tvg-group="spor" group-title="spor", EXXEN SPOR 4
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/exxensport4/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" tvg-group="spor" group-title="spor", EXXEN SPOR 5
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/exxensport5/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" tvg-group="spor" group-title="spor", EXXEN SPOR 6
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/exxensport6/strmrdr.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" tvg-group="spor" group-title="spor", TRT SPOR
 https://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.24saatfutbol.com/wp-content/uploads/2018/06/15281495313_fightbox_logo.png" tvg-group="spor" group-title="spor", TRT SPOR 2
-https://x.slcksprtstream.com/kaynakstreamradarco/100/strmrdr.m3u8
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/100/strmrdr.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bolgegundem.com/d/news/145442.jpg" tvg-group="spor" group-title="spor", A SPOR
-https://mn-nl.mncdn.com:443/blutv_aspor/smil:aspor_sd.smil/chunklist_b1314000.m3u8
+https://xxx.buneamkya.xyz/72fe9bb58e02e669273c902c1f48f501/172/strmrdr.m3u8
 #EXTINF:-1 tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/47bfc305-fac4-4b67-9ee2-bbea7e7634e2_fbtv.png" tvg-group="spor" group-title="spor", FB TV
-https://x.slcksprtstream.com/kaynakstreamradarco/37/strmrdr.m3u8
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/37/strmrdr.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/storage/logos/D19NDTKjsKGkmqm6nAojBQRpM5XV0cvLkTyVGzXY.png" tvg-group="spor" group-title="spor", GS TV
-https://x.slcksprtstream.com/kaynakstreamradarco/39/strmrdr.m3u8
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/39/strmrdr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/08/13/oRqxDy.png" tvg-group="spor" group-title="spor", NBA TV
-https://x.slcksprtstream.com/kaynakstreamradarco/57/strmrdr.m3u8
+https://mn-nl.mncdn.com/blutv_nbatv/nbatv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/baa5575e-33ee-4f72-9579-fa173cc48b08_eurosport1-tv.png" tvg-group="spor" group-title="spor", EUROSPORT 1 HD
-https://x.slcksprtstream.com/kaynakstreamradarco/35/strmrdr.m3u8
+https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canlisportv.com//media/images/tvlogo/9674ee00-34cf-461a-b49c-2abebf0af5b7_eurosport-2-tv.png" tvg-group="spor" group-title="spor", EUROSPORT 2 HD
-https://x.slcksprtstream.com/kaynakstreamradarco/36/strmrdr.m3u8
+https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/2115b4a4-0223-43dc-adcf-65467c97c0a3_cbc-sport-az-tv.jpg" tvg-group="spor" group-title="spor", CBC Sport HD
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/dd/%C4%B0dman_Azerbaycan.jpg" tvg-group="spor" group-title="spor", ?dman Azerbaycan HD
 https://streams.livetv.az/azerbaijan/idmanhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canlisportv.com//media/images/tvlogo/40e01035-c1d1-4502-a7c4-70e45b84c131_sports-tv.jpg" tvg-group="spor" group-title="spor", SPORTS TV
-https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd2.smil/chunklist_b1314000.m3u8
+https://mn-nl.mncdn.com/blutv_sportstv/sportstv_sd.smil/playlist.m3u8
+
