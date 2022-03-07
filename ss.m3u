@@ -57,4 +57,162 @@ https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 https://streams.livetv.az/azerbaijan/idmanhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canlisportv.com//media/images/tvlogo/40e01035-c1d1-4502-a7c4-70e45b84c131_sports-tv.jpg" tvg-group="spor" group-title="spor", SPORTS TV
 https://mn-nl.mncdn.com/blutv_sportstv/sportstv_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/08/06/oPP8qp.jpg" tvg-group="cizgifilm" group-title="cizgifilm", TRT Çocuk
+https://mn-nl.mncdn.com/blutv_trtcocuk/trtcocuk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/storage/logos/ZLmprzCZ8NHlPNyvMYSzjgJ7VyYrMmq17jkMjAAZ.png" tvg-group="cizgifilm" group-title="cizgifilm", NICKELODEON HD
+http://stream99.astalavistababy.xyz/selcuksportscizgifilm/nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3d/be/64/3dbe64b979af6173114844fac533b4b8.png" tvg-group="cizgifilm" group-title="cizgifilm", Nick JR
+http://ch.canlitvlive.io/minikacocuk/live.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" tvg-group="cizgifilm" group-title="cizgifilm", Disney Junior
+http://ch.canlitvlive.io/disneychannel/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/Da-vinci-learning-21.png" tvg-group="cizgifilm" group-title="cizgifilm", Da Vinci Learning
+http://ch.canlitvlive.io/minikago/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png" tvg-group="cizgifilm" group-title="cizgifilm", Cartoon Network
+http://ch.canlitvlive.io/cartoonnetwork/live.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_tDRLy6TEo1wewjV0b3rfP80vgzu7y2_J9jA=s900-c-k-c0xffffffff-no-rj-mo" tvg-group="cizgifilm" group-title="cizgifilm", Baby Tv
+http://stream99.astalavistababy.xyz/selcuksportscizgifilm/babytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/TRT1.tr.png" tvg-group="ulusal" group-title="ulusal", TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://iatkv.tmgrup.com.tr/16a926/616/321/0/0/960/500?u=https://itkv.tmgrup.com.tr/2019/02/05/atv-yayin-akisi-5-subat-2019-sali-atv-yayin-akisinda-bugun-neler-var-1549383758830.jpg" tvg-group="ulusal" group-title="ulusal", ATV
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/113/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/08/13/oR24ds.png" tvg-group="ulusal" group-title="ulusal", STAR TV
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/08/13/oRUEWY.jpg" tvg-group="ulusal" group-title="ulusal", SHOW TV
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/08/13/oRUnYv.jpg" tvg-group="ulusal" group-title="ulusal", Kanal D
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.fox.com.tr/img/FOXLogo.jpg" tvg-group="ulusal" group-title="ulusal", Fox Tv
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bolgegundem.com/d/news/658972.jpg" tvg-group="ulusal" group-title="ulusal", TV8
+https://harbiden.herseykisitli.xyz/72fe9bb58e02e669273c902c1f48f501/192/qs.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/teve-2-hd-buyuk.png" tvg-group="ulusal" group-title="ulusal", teve2
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#EXTINF:-1 tvg-logo="https://isbh.tmgrup.com.tr/sbh/2015/03/26/650x344/1427381268484.jpg" tvg-group="ulusal" group-title="ulusal", KANAL 7
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+#EXTINF:-1 tvg-logo="https://image.ulketv.com.tr/wp-content/themes/ulketv/images/ulke-tv-share.jpg" tvg-group="ulusal" group-title="ulusal", Ülke TV HD
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/8a5034/0/0/0/0/650/360?u=http://i.sabah.com.tr/sbh/2016/12/12/a2-kanalinin-frekans-ayarlari-nasil-yapilir-a2-kanalini-nasil-izlerim-1481539576390.jpg" tvg-group="ulusal" group-title="ulusal", A2 HD
+https://mn-nl.mncdn.com:443/blutv_a2/smil:a2_sd.smil/chunklist_b1314000.m3u8
+#EXTINF:-1 tvg-logo="http://i.hurimg.com/i/hurriyet/75/750x422/58fa20222269a22e64e54461.jpg" tvg-group="ulusal" group-title="ulusal", TV8,5 HD
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/h/haberturk_logo.png" tvg-group="ulusal" group-title="ulusal", HABERTÜRK
+https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://halktv.com.tr/s/i/facebook-default-share.png" tvg-group="ulusal" group-title="ulusal", HALKTV
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://im.haberturk.com/2018/01/27/ver1517064135/1813956_620x410.jpg" tvg-group="ulusal" group-title="ulusal", BLOOMBERG HT
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:-1 tvg-logo="https://mediacat.com/wp-content/uploads/archive/50369.jpg" tvg-group="ulusal" group-title="ulusal", CNN TÜRK HD
+https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
+#EXTINF:-1 tvg-logo="http://m.medyatava.com/uploads/news/a0914242-52ae-4bf3-a033-afb5966f165e.jpg" tvg-group="ulusal" group-title="ulusal", NTV HD
+https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/09/03/oN1TMp.jpg" tvg-group="ulusal" group-title="ulusal", DREAM TV
+https://mn-nl.mncdn.com:443/blutv_dream/smil:dream_sd2.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/09/03/oN1Sz0.jpg" tvg-group="ulusal" group-title="ulusal", DREAM TÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=269" tvg-group="ulusal" group-title="ulusal", POWERTÜRK
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png?v=1" tvg-group="ulusal" group-title="ulusal", POWER TV
+https://mn-nl.mncdn.com/blutv_power2/live.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q5Z1PmwHnqE/YLqsPg1tU1I/AAAAAAAAAAc/DsuvNx34rkgrMDDqpudMo6_DFWBBzK7fQCLcBGAsYHQ/s125/24.jpg" tvg-group="ulusal" group-title="ulusal", 24 HD
+https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bolgegundem.com/d/news/141401.jpg" tvg-group="ulusal" group-title="ulusal", BEYAZ TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-x5ihR_Geoq8/YLqrjoUUHKI/AAAAAAAAAAU/Z7h6Lz0bEMUmZyWWfDsjJi5GOuoqGw_SwCLcBGAsYHQ/s80/trthaber.png" tvg-group="ulusal" group-title="ulusal", TRT Haber HD
+https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-VV3uRjPrYGHneTcQnXWlNTh7BaeOR6QzBfQ=s900-c-k-c0xffffffff-no-rj-mo" tvg-group="ulusal" group-title="ulusal", HABER GLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-logo="https://magazinmahallesi.com/img/w395-h222-c395x222-q100/dosya/haber/ucankus-tv-digiturkte.jpg" tvg-group="ulusal" group-title="ulusal", UCANKUS TV
+https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RDSRUDxaXeQ/YLtOi2XPx1I/AAAAAAAAAAk/8WJVFPWEx4koj4vMoJvA8gsTW6D_7Y4tACLcBGAsYHQ/s107/national-geographic-hd.png" tvg-group="belgesel" group-title="belgesel", National Geographic HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/56/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uT8W5JVZ8Zc/YLtPHAFiuYI/AAAAAAAAAAs/y9IyHwgp85MJP9281Fi3bZi3Gazaj51hwCLcBGAsYHQ/s157/nat-geo-wild-hd.jpg" tvg-group="belgesel" group-title="belgesel", Nat Geo Wild HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/55/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C6L8H79H36o/YLtQF-iVktI/AAAAAAAAAA0/cOG5To1OnNIaiDMdx5EX4w1UNWEWiW2aQCLcBGAsYHQ/s375/discovery-channel-hd.png" tvg-group="belgesel" group-title="belgesel", Discovery Channel HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/32/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-k3RhruwP134/YLtRjB84-OI/AAAAAAAAAA8/i6kIEHEzyV4BH1f29hAMbgvXYo0ac220wCLcBGAsYHQ/s188/discovery-science-hd.png" tvg-group="belgesel" group-title="belgesel", Discovery Science HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/33/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wf6Bag8TxM8/YLtR84FLYCI/AAAAAAAAABE/uueHCcxEQCsXCIGmt0QISFKyIMHyuBmjQCLcBGAsYHQ/s195/history-hd.png" tvg-group="belgesel" group-title="belgesel", History HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/40/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HUlKUnofvz0/YLtTCifUg4I/AAAAAAAAABM/P9n2TgjUEmw_an9azEX0PxV3zT8tyF2zgCLcBGAsYHQ/s196/bbc-earth-hd.png" tvg-group="belgesel" group-title="belgesel", BBC Earth HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/6/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KrTp_IDfrys/YLtU34Wqm0I/AAAAAAAAABU/MKjXDECmy0gIettLqZn-c3z2VkAmxGVeACLcBGAsYHQ/s174/animal-planet-hd.png" tvg-group="belgesel" group-title="belgesel", Animal Planet HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/3/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_History_Logo.jpg" tvg-group="belgesel" group-title="belgesel", Viasat History HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/64/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/829701672796569601/gGjvgkPv.jpg" tvg-group="belgesel" group-title="belgesel", beIN IZ HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/12/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgyukle.com/2019/01/02/z0zVn.png" tvg-group="belgesel" group-title="belgesel", TRT BELGESEL
+https://mn-nl.mncdn.com/blutv_trtbelgesel/trtbelgesel_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/c609948f-a85a-42f9-a517-3b67f3b012ed_dmax-hd-tv.jpg" tvg-group="belgesel" group-title="belgesel", DMAX HD
+https://mn-nl.mncdn.com/blutv_dmax/dmax_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3H6NsOSLs0k/YLqqXrAUMQI/AAAAAAAAAAM/89lV3sY_OjYOQ7PFAydQmrUq9TnSUvneQCLcBGAsYHQ/s175/.jpg" tvg-group="belgesel" group-title="belgesel", TLC HD
+https://mn-nl.mncdn.com/blutv_tlc/tlc_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" tvg-group="belgesel" group-title="belgesel", ID Discovery
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/41/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="http://en.mediasat.info/wp-content/uploads/2015/09/dtx-640x347.jpg" tvg-group="belgesel" group-title="belgesel", DTX
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/34/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/bein-gurme-hd-buyuk.png" tvg-group="belgesel" group-title="belgesel", BEIN GURME
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/10/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/bein-series-sci-fi-hd-buyuk.png" tvg-group="sinema" group-title="sinema", beIN SERIES SCI-FI HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/22/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/bein-series-comedy-hd-buyuk.png" tvg-group="sinema" group-title="sinema", beIN SERIES COMEDY HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/20/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/bein-series-drama-hd-buyuk.png" tvg-group="sinema" group-title="sinema", beIN SERIES DRAMA HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/21/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/bein-series-vice-hd-buyuk.png" tvg-group="sinema" group-title="sinema", beIN SERIES VICE HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/23/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/bein-box-office-1-hd-buyuk.png" tvg-group="sinema" group-title="sinema", beIN BOX OFFICE 1
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/7/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/bein-box-office-2-hd-buyuk.png" tvg-group="sinema" group-title="sinema", beIN BOX OFFICE 2
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/8/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="kanal-buyuk/bein-box-office-3-hd-buyuk.png" tvg-group="sinema" group-title="sinema", beIN BOX OFFICE 3
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/9/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="bein_movies_oscars_buyuk.png" tvg-group="sinema" group-title="sinema", beIN MOVIES OSCARS HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/19/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="bein-movies-action-hd.png" tvg-group="sinema" group-title="sinema", beIN MOVIES ACTION HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/13/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="bein-movies-action-2-hd.png" tvg-group="sinema" group-title="sinema", beIN MOVIES ACTION 2 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/14/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="bein-movies-family-hd.png" tvg-group="sinema" group-title="sinema", beIN MOVIES FAMILIY HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/15/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/storage/logos/Cu6qo1896GSYBYYIoykAwWEbWXNj9X5SY1mPm9bV.png" tvg-group="sinema" group-title="sinema", beIN MOVIES PREMIERE HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/16/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/storage/logos/HcIThFvtkIa4rCrfoqiJxhj6mMJ1OPA5unG5ztAb.png" tvg-group="sinema" group-title="sinema", beIN MOVIES PREMIERE 2 HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/17/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/storage/logos/57mMDEUYeYeieKs4y8SSVoDJKK7FpKpf0ZToOlvL.png" tvg-group="sinema" group-title="sinema", beIN MOVIES STAR HD
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/18/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/i/dsmart/75/0x0/5a2e2142402eb771a4959296" tvg-group="sinema" group-title="sinema", Movie Smart Action
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/44/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/i/dsmart/75/0x0/5a2e2157402eb771a495929c" tvg-group="sinema" group-title="sinema", Movie Smart Family
+https://srvccc.shoulder5030said.xyz/kaynakstreamradarco/46/strmrdr.m3u8
+#EXTINF:-1 tvg-logo="https://smartv.com.tr/i/dsmart/75/0x0/5a2e2161402eb771a495929f.jpg" tvg-group="sinema" group-title="sinema", Movie Smart Gold
+http://stream99.astalavistababy.xyz/selcuksportssinema/msgold/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.yorungetv.com/images/moviesmartplatinHD.png" tvg-group="sinema" group-title="sinema", Movie Smart Platin
+http://stream99.astalavistababy.xyz/selcuksportssinema/msplatin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/storage/logos/coLAUPbA9Tw2t0rvTQ9OPtvtqJe8jVFXP1PN6fE5.png" tvg-group="sinema" group-title="sinema", Movie Smart Premium
+http://stream99.astalavistababy.xyz/selcuksportssinema/mspremium/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_of_MovieSmart_T%C3%BCrk.png" tvg-group="sinema" group-title="sinema", Movie Smart Türk
+http://stream99.astalavistababy.xyz/selcuksportssinema/msturk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/i/dsmart/75/0x0/5a2e214c402eb771a4959299" tvg-group="sinema" group-title="sinema", Movie Smart Classic
+http://stream99.astalavistababy.xyz/selcuksportssinema/msclassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canakanten.com/wp-content/plugins/EsenWpMobil/themes/EsenMobile/fonk/timthumb.php?src=https://canakanten.com/wp-content/uploads/moviesmart-fest.png&w=480&h=250&q=70" tvg-group="sinema" group-title="sinema", Movie Smart Festival
+http://stream99.astalavistababy.xyz/selcuksportssinema/msfest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1875933911/fx_hd.jpg" tvg-group="sinema" group-title="sinema", FX HD
+https://mn-nl.mncdn.com/blutv_fx/smil:fx_hd2.smil/chunklist_b1314000.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png" tvg-group="sinema" group-title="sinema", IMDB 100
+http://stream99.astalavistababy.xyz/selcuksportssinema/imdb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ledr.com/colours/white.jpg" tvg-group="sinema" group-title="sinema", Animasyon
+http://stream99.astalavistababy.xyz/selcuksportssinema/animasyon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ledr.com/colours/white.jpg" tvg-group="sinema" group-title="sinema", Korku
+http://stream99.astalavistababy.xyz/selcuksportssinema/korku/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ledr.com/colours/white.jpg" tvg-group="sinema" group-title="sinema", Aksiyon
+http://stream99.astalavistababy.xyz/selcuksportssinema/aksiyon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ledr.com/colours/white.jpg" tvg-group="sinema" group-title="sinema", Bilim Kurgu
+http://stream99.astalavistababy.xyz/selcuksportssinema/bilimkurgu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ledr.com/colours/white.jpg" tvg-group="sinema" group-title="sinema", Komedi
+http://stream99.astalavistababy.xyz/selcuksportssinema/komedi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/d/d_yesilcam_logo.png" tvg-group="sinema" group-title="sinema", Ye?ilçam
+http://stream99.astalavistababy.xyz/selcuksportssinema/3d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1129296983078952960/Ed08rXAd_400x400.jpg" tvg-group="sinema" group-title="sinema", Fox Crime
+http://stream99.astalavistababy.xyz/selcuksportssinema/foxcrime/playlist.m3u8
 
